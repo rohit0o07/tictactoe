@@ -1,0 +1,13 @@
+*{
+  margin:0px;
+  padding:0px; 
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.square{
+  width:20px;
+  height:20px;
+  color:rgb(68, 255, 0);
+  background-color: rgb(127, 182, 189);
+  box-sizing: border-box;
+}
